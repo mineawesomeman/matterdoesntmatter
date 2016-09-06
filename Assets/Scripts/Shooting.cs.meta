@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5ba337b3fc0639c43b8bf6b2f632fa9c
+timeCreated: 1458428052
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hotProjectilePrefab: {fileID: 163592, guid: 35c26bb37a663b84a8c87482fa538aa4,
+      type: 2}
+  - coldProjectilePrefab: {fileID: 163592, guid: 95eef6038943d5140874c7e5692a8507,
+      type: 2}
+  - hud: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

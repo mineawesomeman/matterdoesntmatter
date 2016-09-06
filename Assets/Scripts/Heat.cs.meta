@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db9b75bf1ef00ca43b0bb32d586328af
+timeCreated: 1457992463
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ice: {fileID: 109772, guid: b32dbc4d667794e48912abd5681ed80c, type: 2}
+  - water: {fileID: 148424, guid: 948dc997094562445a2a4aef1ea090b8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
